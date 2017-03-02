@@ -1,0 +1,26 @@
+[33mcommit d8bde27b708bffa3cf9161ea97ca8a8bc65e42a8[m
+Merge: efbbba7 7d00c31
+Author: binchu <chubin2000@outlook.com>
+Date:   Wed Aug 24 12:34:19 2016 +0800
+
+    Merge pull request #1 from binchu/NewBranch
+    
+    Pull the changes from newbranch to master branch
+
+[33mcommit 7d00c31c000ba9a6e4d7fe104624f6c8448850b4[m
+Author: binchu <chubin2000@outlook.com>
+Date:   Wed Aug 24 12:32:17 2016 +0800
+
+    Update the readme file
+
+[33mcommit 4ac4d4172a267e18ca330abf23442998cc1e5331[m
+Author: binchu <chubin2000@outlook.com>
+Date:   Wed Aug 24 12:22:02 2016 +0800
+
+    Add a description
+
+[33mcommit efbbba7746dad404e8c16960022c3d052d9df5fc[m
+Author: binchu <chubin2000@outlook.com>
+Date:   Wed Aug 24 12:11:27 2016 +0800
+
+    Initial commit
