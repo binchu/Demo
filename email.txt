@@ -1,2 +1,3 @@
 a email address file
 a new line in email 
+what a new line again 
